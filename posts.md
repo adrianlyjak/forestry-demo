@@ -8,11 +8,11 @@ menu:
   footer:
     identifier: _posts
     url: "/posts/"
-    weight: 3
+    weight: 2
   navigation:
     identifier: _posts
     url: "/posts/"
-    weight: 3
+    weight: 4
 ---
 # title
 
